@@ -22,16 +22,25 @@ BCA Student, Yeldho Mar Baselios College
 📍 Aranmula, Kerala, India
 
 ## 📷 Screenshots
-### 🔐 Login Page
-![Login Page]
+###  Login Page
+![Login Page]https://github.com/rejothomas1/automatic-timetable-generator/raw/main/login_page.png
 
 
-### 🧑‍💻 Admin Dashboard
-![Dashboard]
+###  Admin Dashboard
+![Dashboard]https://github.com/rejothomas1/automatic-timetable-generator/raw/main/admin_dashboard.png 
 
 
-### 🕐 Generate Timetable
-![Generate Timetable](
+### Add Subjects
+![Add Subjectse]https://github.com/rejothomas1/automatic-timetable-generator/raw/main/add_subjects.png 
+
+
+###  Generate Timetable
+![Generate Timetable]https://github.com/rejothomas1/automatic-timetable-generator/raw/main/generation.png 
+
+
+### View Timetable
+![View Timetable]https://github.com/rejothomas1/automatic-timetable-generator/raw/main/timetable.png
+
 
 ## 📂 How to Run the Project
 1. Clone the repo or download the ZIP.
