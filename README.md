@@ -22,7 +22,16 @@ BCA Student, Yeldho Mar Baselios College
 📍 Aranmula, Kerala, India
 
 ## 📷 Screenshots
-Add a few screenshots of your project UI here (optional but recommended).
+### 🔐 Login Page
+![Login Page]
+
+
+### 🧑‍💻 Admin Dashboard
+![Dashboard]
+
+
+### 🕐 Generate Timetable
+![Generate Timetable](
 
 ## 📂 How to Run the Project
 1. Clone the repo or download the ZIP.
