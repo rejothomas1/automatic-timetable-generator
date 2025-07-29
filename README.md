@@ -1,18 +1,31 @@
 # Automatic Timetable Generator
 
-A web-based mini project using PHP and MySQL to generate weekly academic timetables for BCA department batches.
+A PHP-MySQL based web application to automatically generate weekly timetables for college batches based on subject-teacher mapping and availability.
 
-## Features
-- Admin dashboard to add subjects, teachers, batches, and availability
-- Teacher and student login portals
-- Auto-generated timetables based on subject-teacher mapping
-- PHP, MySQL, HTML, CSS used
+## 🚀 Features
+- Admin dashboard to manage teachers, batches, subjects, and hours.
+- Assign subjects and teaching hours to teachers.
+- Teacher availability management.
+- Generate conflict-free weekly timetables.
+- View timetables by batch, teacher, and student login.
 
-## How to Run
-1. Import database.sql into your local MySQL server
-2. Place files in htdocs/ (XAMPP) and start Apache + MySQL
-3. Open localhost/index.php in your browser
+## 🛠 Technologies Used
+- PHP
+- MySQL
+- HTML/CSS
+- JavaScript
 
----
+## 👨‍💻 Author
+*Rejo Thomas*  
+BCA Student, Yeldho Mar Baselios College  
+📧 rejothomas538@gmail.com  
+📍 Aranmula, Kerala, India
 
-Project by: Rejo Thomas
+## 📷 Screenshots
+Add a few screenshots of your project UI here (optional but recommended).
+
+## 📂 How to Run the Project
+1. Clone the repo or download the ZIP.
+2. Import the .sql file into your MySQL database.
+3. Update DB config in config.php.
+4. Run the project using XAMPP or localhost.
