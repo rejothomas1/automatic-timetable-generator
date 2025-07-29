@@ -20,6 +20,7 @@ A PHP-MySQL based web application to automatically generate weekly timetables fo
 BCA Student, Yeldho Mar Baselios College  
 📧 rejothomas538@gmail.com  
 📍 Aranmula, Kerala, India
+[GitHub Profile](https://github.com/rejothomas1)
 
 ## 📷 Screenshots
 ###  Login Page
